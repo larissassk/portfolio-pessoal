@@ -19,14 +19,15 @@
 ### 🛠️ Tecnologias utilizadas
 
 Foi utilizado:
-. GitHub
-. Vscode
-. HTML
-. CSS
-. Bootstrap
+. GitHub  
+. Vscode  
+. HTML  
+. CSS  
+. Bootstrap  
 
 ## 📄 Fontes consultadas 
 
 ## ✒️ Autores
 Larissa Manrique
+[GitHub](https://github.com/larissassk)
 
