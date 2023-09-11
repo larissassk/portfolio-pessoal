@@ -14,7 +14,7 @@
 Projeto usado durante as aulas para fazer um README e tambem utilizando Bootstrap de exemplo de página.
 
 ##  🔧 Funcionalidades
-Modelo de página simples e bonito.
+É um modelo de página simples e bonito que tem tres funções inicio, caracteristicas e contato que trazem informações.
 
 ### 🛠️ Tecnologias utilizadas
 Foi utilizado:
@@ -25,7 +25,9 @@ Foi utilizado:
 . Bootstrap  
 
 ## 📄 Fontes consultadas 
-
+[Um modelo para fazer um bom README.md](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)
+[Exemplo de como escrever um README:](https://www.alura.com.br/artigos/escrever-bom-readme)
+[Bootstrap](https://getbootstrap.com/)
 
 ## ✒️ Autores
 Larissa Manrique
