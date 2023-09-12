@@ -14,24 +14,25 @@
 Projeto usado durante as aulas de programação para criar um README bem detalhado e também utilizando Bootstrap de exemplo de página.
 
 ##  🔧 Funcionalidades
-É um modelo de página simples e bonito, com três funções sendo elas inicio, caracteristicas e contato que trazem informações de pagina responsiva.  
-Tem um README bem descritivo.
+É um modelo de página simples e bonito, com três funções sendo elas inicio, caracteristicas e contato que trazem informações de pagina responsiva. Com um README bem descritivo. 
+
 
 ### 🛠️ Tecnologias utilizadas
 Foi utilizado:
-. GitHub  
-. Vscode  
-. HTML  
-. CSS  
-. Bootstrap  
+• GitHub  
+• Vscode  
+• HTML  
+• CSS  
+• Bootstrap  
 
 ## 📄 Fontes consultadas 
-[Um modelo para fazer um bom README.md](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)  
-[Exemplo de como escrever um README:](https://www.alura.com.br/artigos/escrever-bom-readme)  
-[Bootstrap](https://getbootstrap.com/)
+• [Um modelo para fazer um bom README.md](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)  
+• [Exemplo de como escrever um README:](https://www.alura.com.br/artigos/escrever-bom-readme)  
+• [Bootstrap 5](https://getbootstrap.com/)
 
 ## ✒️ Autores
-Larissa Manrique
-[GitHub](https://github.com/larissassk)  
-[Leonardo Rocha](https://github.com/LeonardoRochaMarista) 
+Larissa Manrique  
+[GitHub](https://github.com/larissassk)    
+Leonardo Rocha  
+[GitHub](https://github.com/LeonardoRochaMarista) 
 
