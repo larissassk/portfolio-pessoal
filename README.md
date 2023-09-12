@@ -31,8 +31,8 @@ Foi utilizado:
 • [Bootstrap 5](https://getbootstrap.com/)
 
 ## ✒️ Autores
-Larissa Manrique  
+´Larissa Manrique´  
 [GitHub](https://github.com/larissassk)  
-Leonardo Rocha  
+´Leonardo Rocha´    
 [GitHub](https://github.com/LeonardoRochaMarista) 
 
