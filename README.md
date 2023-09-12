@@ -26,9 +26,9 @@ Foi utilizado:
 • Bootstrap  
 
 ## 📄 Fontes consultadas 
-• [Um modelo para fazer um bom README.md](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)  
-• [Exemplo de como escrever um README:](https://www.alura.com.br/artigos/escrever-bom-readme)  
-• [Bootstrap 5](https://getbootstrap.com/)
+- [Um modelo para fazer um bom README.md](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)  
+- [Exemplo de como escrever um README:](https://www.alura.com.br/artigos/escrever-bom-readme)  
+- [Bootstrap 5](https://getbootstrap.com/)
 
 ## ✒️ Autores
 • Larissa Manrique [GitHub](https://github.com/larissassk)    
