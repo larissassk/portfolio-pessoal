@@ -11,10 +11,11 @@
 ![image](img/capa.png)
 
 ## 📋 Descrição
-Projeto usado durante as aulas para fazer um README e tambem utilizando Bootstrap de exemplo de página.
+Projeto usado durante as aulas de programação para criar um README bem detalhado e também utilizando Bootstrap de exemplo de página.
 
 ##  🔧 Funcionalidades
-É um modelo de página simples e bonito que tem tres funções inicio, caracteristicas e contato que trazem informações.
+É um modelo de página simples e bonito, com três funções sendo elas inicio, caracteristicas e contato que trazem informações de pagina responsiva.  
+Tem um README bem descritivo.
 
 ### 🛠️ Tecnologias utilizadas
 Foi utilizado:
@@ -32,5 +33,5 @@ Foi utilizado:
 ## ✒️ Autores
 Larissa Manrique
 [GitHub](https://github.com/larissassk)  
-Leonardo Rocha 
+[Leonardo Rocha](https://github.com/LeonardoRochaMarista) 
 
