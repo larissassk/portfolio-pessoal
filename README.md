@@ -18,7 +18,7 @@ Projeto usado durante as aulas de programação para criar um README bem detalha
 
 
 ### 🛠️ Tecnologias utilizadas
-Foi utilizado:
+Foi utilizado:  
 • GitHub  
 • Vscode  
 • HTML  
@@ -32,7 +32,7 @@ Foi utilizado:
 
 ## ✒️ Autores
 Larissa Manrique  
-[GitHub](https://github.com/larissassk)    
+[GitHub](https://github.com/larissassk)  
 Leonardo Rocha  
 [GitHub](https://github.com/LeonardoRochaMarista) 
 
