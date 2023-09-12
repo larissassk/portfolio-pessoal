@@ -32,7 +32,7 @@ Foi utilizado:
 
 ## ✒️ Autores
 `Larissa Manrique` [GitHub](https://github.com/larissassk)    
-`Larissa Manrique` [Linkedin](https://www.linkedin.com/in/larissa-manrique-6a1473245)     
+`Larissa Manrique` [Linkedin](https://www.linkedin.com/in/larissa-manrique-6a1473245)<br>    
 `Leonardo Rocha` [GitHub](https://github.com/LeonardoRochaMarista)  
 `Leonardo Rocha` [Linkedin](https://www.linkedin.com/in/leonardossrocha)
 
