@@ -21,9 +21,9 @@ Projeto usado durante as aulas de programação para criar um README bem detalha
 Foi utilizado:  
 • GitHub  
 • Vscode  
-• HTML  
-• CSS  
-• Bootstrap  
+• HTML5  
+• CSS3  
+• Bootstrap   
 
 ## 📄 Fontes consultadas 
 • [Um modelo para fazer um bom README](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)  
